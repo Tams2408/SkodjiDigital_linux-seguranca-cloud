@@ -1,0 +1,17 @@
+pwd
+Mostra o diretório atual.
+
+whoami
+Mostra o utilizador atual do sistema.
+
+hostname
+Mostra o nome da máquina Linux.
+
+uname -a
+Mostra informações do kernel Linux.
+
+lsb_release -a
+Mostra a distribuição e versão do Linux.
+
+free -h
+Mostra a utilização da memória RAM.
