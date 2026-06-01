@@ -2,7 +2,7 @@
 
 ## Trilho seguido
 
-Trilho A — VM local
+Trilho A: VM local
 
 ## Ambiente utilizado
 
