@@ -1,0 +1,26 @@
+mkdir -p topico-03/atividade-individual/site
+Criação da estrutura do tópico.
+
+touch comandos.txt publicacao.md validacao.md README.md
+Criação dos ficheiros de documentação.
+
+nano index.html
+Criação da página principal.
+
+nano sobre.html
+Criação da página sobre.
+
+nano style.css
+Criação da folha de estilos.
+
+sudo apt install nginx -y
+Instalação do servidor web.
+
+sudo systemctl start nginx
+Arranque do serviço.
+
+sudo cp site/* /var/www/html/topico-03/
+Publicação do site.
+
+o site
+http://192.168.0.149/topico-03
