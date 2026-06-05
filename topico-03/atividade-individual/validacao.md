@@ -10,11 +10,11 @@ http://192.168.0.149/topico-03/sobre.html
 
 A página principal foi carregada corretamente.
 
-A página sobre.html não ficou acessível no início.
+A página sobre.html ficou acessível.
 
 O CSS foi aplicado corretamente.
 
-A navegação entre páginas, após correção de erro, funcionou.
+A navegação entre páginas, após a correção de erros, funcionou.
 
 ## Evidências
 
