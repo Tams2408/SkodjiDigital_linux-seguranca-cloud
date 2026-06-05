@@ -41,7 +41,7 @@ Configuração inicial do servidor web.
 
 ## Link do repositório GitHub
 
-(https://github.com/Tams2408/SkodjiDigitalClasses/edit/main/topico-03/atividade-individual)
+(https://github.com/Tams2408/SkodjiDigitalClasses/main/topico-03/atividade-individual)
 
 ## Próximos passos
 
